@@ -45,3 +45,7 @@ footer {
 footer a {
     margin: 20px;
 }
+
+.container { 
+    padding: 0 50px;
+}
